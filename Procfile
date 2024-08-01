@@ -1,0 +1,1 @@
+web: java -jar build/libs/dio-bootcamp-gft-2024-0.0.1-SNAPSHOT.jar
